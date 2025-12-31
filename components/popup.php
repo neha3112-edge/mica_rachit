@@ -1,4 +1,64 @@
-   <!-- Enquire Now Popup -->
+  <style>
+.modal2 {
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5); /* Dim background */
+  display: none;
+}
+
+.modal-content2 {
+  background-color: #fff;
+  margin: 3% auto;
+  padding: 30px 40px;
+  width: 100%;
+  max-width: 800px;
+  border-radius: 8px;
+  position: relative; font-size:13px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+@media only screen and (max-width: 600px) {.modal-content2 {
+  background-color: #fff;
+  margin: 2% auto;
+  padding: 30px 40px;
+  width: 100%;
+  max-width: 800px;
+  margin: 20px; /* Adds margin from left and right */
+    width: auto; /* Makes sure it doesn't overflow */
+  border-radius: 8px;
+  position: relative; font-size:13px;
+}}
+.disclaimer_popup{color: #011bfe; font-size: 12px; text-decoration: underline;}
+.disclaimer-list {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+.disclaimer-list li {
+  margin-bottom: 10px;
+  line-height: 1.2;
+}
+
+ .error-message {
+    color: red;
+    font-size: 13px;
+    display: none;
+    margin-top: 5px;
+  }
+</style> 
+
+<!-- Enquire Now Popup -->
     <div id="enquirePopup" class="popup-overlay">
       <div class="popup-content">
         <span class="close-btn" onclick="closePopup('enquirePopup')">&times;</span>
@@ -102,6 +162,49 @@
                 </form>
       </div>
     </div>
+
+
+<div id="disclaimerModal" class="modal2" style="display: none;">
+  <div class="modal-content2">
+    <span class="close-btn" onClick="closedisclaimerModal()">&times;</span>
+    <h2 style="text-align:center;">Disclaimer</h2>
+    <hr>
+    <p>This information is provided by DistanceEducationSchool.in, under the legal entity of 
+      <b>SODE Counselling Services LLP,</b> registered with the 
+      <b>Ministry of Corporate Affairs</b>, with the main objective of providing information, guidance, 
+      and counselling services about <b>UGC-DEB-approved universities</b>. We do not act as a university 
+      or an admission authority.
+    </p>
+
+    <br>
+    <h5>Essential Points </h5>
+    <ul class="disclaimer-list">
+      <li>All university names, logos, and trademarks used are for informational purposes only.</li>
+      <li>Our role is to provide updates, information, and guidance on universities regarding their distance or online education programs.</li>
+      <li>We do not charge students any fees for counselling or guidance on university applications.</li>
+      <li>We do not issue degrees, mark sheets, or certificates in the name of any university.</li>
+      <li>Our aim is to offer free and unbiased counselling to help students choose the right path.</li>
+      <li>We respect the integrity and reputation of all listed universities and do not engage in any activity that damages their credibility.</li>
+      <li>Users are encouraged to verify information from official university portals before making decisions.</li>
+      <li>Our services are transparent, legal, and purely for student support. 
+        <span onClick="closedisclaimerModal()" id="closeButton" style="font-size:13px; color:blue; cursor:pointer;">close</span>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<script>
+    function disclaimerModal() {
+        document.getElementById('disclaimerModal').style.display = 'block';
+    }
+
+    function closedisclaimerModal() {
+        document.getElementById('disclaimerModal').style.display = 'none';
+    }
+    </script>
+
+
 <script>
     // Handle form submission
     document.addEventListener('DOMContentLoaded', function () {

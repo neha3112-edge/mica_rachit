@@ -154,11 +154,12 @@ select {
 }  */
 
 #footer {
-  background: var(--footer-color);
-  color: #fff;
-  padding: 20px;
-
+	background: var(--footer-color);
+	color: #fff;
+	padding: 20px;
+	padding-top: 60px;
 }
+
 #footer h2{font-size: 20px;}
 
 .footer-section {
@@ -273,4 +274,19 @@ border: none;
     text-align: center;
     flex-direction: column;
 }
+}
+
+
+.footer-column ul {
+	list-style-type: none;
+	padding: 0px;
+	padding-top: 15px;
+}
+.footer-column ul li {
+	padding-bottom: 5px;
+	font-size: 14px;
+}
+
+.footer-column ul li a {
+	text-decoration: none;
 }

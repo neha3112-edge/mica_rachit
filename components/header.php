@@ -107,9 +107,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
             <ul class="nav-list">
             <li><a href="#hero-section">Home</a></li>
-            <li><a href="#Courses">Courses</a></li>
-            <li><a href="#about-section">About</a></li>
-                <li><a href="#why-choose-section">why Choose ?</a></li>
+            <li><a href="#Universities">Courses</a></li>
+            <li><a href="#about_section">About</a></li>
+                <li><a href="#why_choose">Why Choose ?</a></li>
                 
                 <li><a href="#faqs">FAQ</a></li>
             </ul>

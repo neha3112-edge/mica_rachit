@@ -11,19 +11,21 @@
             </div>
             <div class="footer-column">
                 <h2>RANKING & ACCREDITATION</h2>
-                <p>Ranked 32 in NIRF'24<br>
-                          MECCA Of Marketing<br>
+                <ul>
+                    <li>Ranked 32 in NIRF'24</li>
+                    <li>MECCA Of Marketing</li>
+                </ul>
                 
             </div>
             <div class="footer-column">
                 <h2>QUICK LINKS</h2>
-                <p><a href="#about" style="text-decoration:none;">About MICA</a> <br>
-                <a href="#Courses" style="text-decoration:none;">Course Curriculum
-</a><br><a href="#faqs" style="text-decoration:none;">Frequently Asked Question
-</a>
-<a href="#" style="text-decoration:none;">Advantages</a> <br>
-</p>
-                
+                <ul>
+                    <li><a href="#about_section">About MICA</li>
+                    <li><a href="#Universities">Course Curriculum</li>
+                    <li><a href="#faqs">Frequently Asked Question</li>
+                    <li><a href="#advantages">Advantages</li>
+
+                </ul>           
     
                 <br/>
             </div> 
@@ -41,11 +43,13 @@
             <div class="col-md-12">
             <!--<p>Home | About | Courses | FAQ</p>-->
             <center><hr/></center>
-            <p>&copy; <?php echo date("Y"); ?> MICA Online - All Rights Reserved</p>
+            <p>&copy; <?php echo date("Y"); ?>  This information is provided by SODE Counselling Services LLP. All university names, logos, and trademarks mentioned are used for informational purposes only. We are not a university or an admission authority. <br><span class="disclaimer_popup" onclick="disclaimerModal()" style="color:#8DB3F0; font-size:14px; cursor:pointer; font-weight:bold; text-decoration:underline;">Disclaimer</span></p>
             </div>
         </div>
     </div>
 </div>
+
+<?php include 'popup.php'; ?>
 
 <script>
 //     start on scroll popup

@@ -37,9 +37,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			   <!-- <h1 style="font-family: Impact, sans-serif!important;"> HRM Analytics<br>Online Certification</h1>-->
             <p style="color: white;">The online certificate courses at MICA University are flexible, expert-led courses. These Online courses are for working professionals who want practical skills, strategic clarity, and strong academic credibility
 </p>
-        <img src="assets/img/3-4-months.webp" class="img-responsive">
 
-            <button class="enquireNowBtn btn2" style="background-color:#BF1E24; color:white; border-style:none; font-weight:bold;">Download Broucher <i class="fa fa-download"></i> </button>
+        <div class="banner_lists">
+            <ul>
+
+            <li><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"/></svg>3-4 Months</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M400 480H48c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h352c26.51 0 48 21.49 48 48v352c0 26.51-21.49 48-48 48zm-204.686-98.059l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.248-16.379-6.249-22.628 0L184 302.745l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.25 16.379 6.25 22.628.001z"/></svg>25+ Tools</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--!Font Awesome Free v5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M622.34 153.2L343.4 67.5c-15.2-4.67-31.6-4.67-46.79 0L17.66 153.2c-23.54 7.23-23.54 38.36 0 45.59l48.63 14.94c-10.67 13.19-17.23 29.28-17.88 46.9C38.78 266.15 32 276.11 32 288c0 10.78 5.68 19.85 13.86 25.65L20.33 428.53C18.11 438.52 25.71 448 35.94 448h56.11c10.24 0 17.84-9.48 15.62-19.47L82.14 313.65C90.32 307.85 96 298.78 96 288c0-11.57-6.47-21.25-15.66-26.87.76-15.02 8.44-28.3 20.69-36.72L296.6 284.5c9.06 2.78 26.44 6.25 46.79 0l278.95-85.7c23.55-7.24 23.55-38.36 0-45.6zM352.79 315.09c-28.53 8.76-52.84 3.92-65.59 0l-145.02-44.55L128 384c0 35.35 85.96 64 192 64s192-28.65 192-64l-14.18-113.47-145.03 44.56z"/></svg>6+ Specialisations</li>
+
+        </div>
+
+            <button class="btn2" style="background-color:#BF1E24; color:white; border-style:none; font-weight:bold;"><a href="#Universities">Explore Courses</a></button>
            </div>
 		
            <div class="banner-form">
@@ -82,61 +90,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div></div>
 </div>
 
-<section class="why-choose-section">
-    <div class="container">
-        <div class="header-area">
-            <h2>WHY CHOOSE MICA ONLINE COURSES</h2>
-            
-        </div>
-
-        <div class="features-grid">
-            <div class="feature-item">
-                <div class="icon">●</div>
-                <div class="text">
-                    <h3>From Paid Campaigns to Retention Channels</h3>
-                    <p>The curriculum is designed so that MICA University learners take part in live projects covering SEO, Meta Ads, Google Ads, email marketing, marketing automation, GA4, and a CRM-based pathway.</p>
-                </div>
-            </div>
-            <div class="feature-item">
-                <div class="icon">●</div>
-                <div class="text">
-                    <h3>3+ certification on completion</h3>
-                    <p>When the learner has completed the course, the learner will get certification from MICA along with social panga and cleverTap, validating applied skills.</p>
-                </div>
-            </div>
-            <div class="feature-item">
-                <div class="icon">●</div>
-                <div class="text">
-                    <h3>Agency Exposure Through Optional Industry Immersion</h3>
-                    <p>Participants can engage in an offline immersion experience with Social Panga, presenting solutions to senior agency professionals and understanding agency workflows.</p>
-                </div>
-            </div>
-
-            <div class="feature-item">
-                <div class="icon">●</div>
-                <div class="text">
-                    <h3>Brand Building from Insight to Identity, Not Campaigns Alone</h3>
-                    <p>The programme trains learners to translate consumer insight into brand positioning, narrative systems, and long-term differentiation across digital touchpoints.</p>
-                </div>
-            </div>
-            <div class="feature-item">
-                <div class="icon">●</div>
-                <div class="text">
-                    <h3>Practice-Intensive Learning Through D2C Brand Case Work</h3>
-                    <p>Learners work on real brand scenarios involving content systems, creator ecosystems, community building, and revenue-linked brand growth.</p>
-                </div>
-            </div>
-            <div class="feature-item">
-                <div class="icon">●</div>
-                <div class="text">
-                    <h3>Capstone Designed for Leadership-Level Decision Making</h3>
-                    <p>The programme concludes with a two-part capstone where learners build a D2C brand and defend brand investments through a boardroom-style presentation.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 
 <section id="Universities">
 <div class="container">
@@ -145,7 +98,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="Universities-info">
     <div class="c1">
-        <img src="assets/img/marketing-fundamentals.webp" class="img-responsive">
+        <img src="assets/img/advanced-certificate-in-digital-marketing-communication-mica-6954bfe464953.webp" class="img-responsive">
         <div class="cr-cnt">
         <h2>Advanced Certificate in Digital Marketing & Communication</h2>
         <p>The MICA Online digital marketing course offers an AI-integrated learning journey with beginner and advanced tracks. The Online digital marketing courses provided in MICA University include live industry projects.
@@ -159,7 +112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 
      <div class="c1">
-        <img src="assets/img/marketing-fundamentals.webp" class="img-responsive">
+        <img src="assets/img/advanced-certificate-in-digital-brand-communication-strategy-mica-6954bfe40097e.webp" class="img-responsive">
         <div class="cr-cnt">
         <h2>Advanced Certificate in Digital Brand Communication Strategy</h2>
         <p>The MICA online courses are built around a brand strategy content system, creator-led growth, and revenue impact. The university offer 20% strategy, 80% practical, and 100% brand impact kind of a curriculum
@@ -173,16 +126,75 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 </section>
 
+<section id="why_choose" class="why-choose-section">
+    <div class="container">
+        <div class="header-area">
+            <h2>WHY CHOOSE MICA ONLINE COURSES</h2>
+            
+        </div>
+
+        <div class="features-grid">
+            <div class="feature-item">
+                <div class="icon"><img src="assets/img/icon-01.webp"></div>
+                <div class="text">
+                    <h3>From Paid Campaigns to Retention Channels</h3>
+                    <p>The curriculum is designed so that MICA University learners take part in live projects covering SEO, Meta Ads, Google Ads, email marketing, marketing automation, GA4, and a CRM-based pathway.</p>
+                </div>
+            </div>
+            <div class="feature-item">
+                <div class="icon"><img src="assets/img/icon-01.webp"></div>
+                <div class="text">
+                    <h3>3+ certification on completion</h3>
+                    <p>When the learner has completed the course, the learner will get certification from MICA along with social panga and cleverTap, validating applied skills.</p>
+                </div>
+            </div>
+            <div class="feature-item">
+                <div class="icon"><img src="assets/img/icon-01.webp"></div>
+                <div class="text">
+                    <h3>Agency Exposure Through Optional Industry Immersion</h3>
+                    <p>Participants can engage in an offline immersion experience with Social Panga, presenting solutions to senior agency professionals and understanding agency workflows.</p>
+                </div>
+            </div>
+
+            <div class="feature-item">
+                <div class="icon"><img src="assets/img/icon-01.webp"></div>
+                <div class="text">
+                    <h3>Brand Building from Insight to Identity, Not Campaigns Alone</h3>
+                    <p>The programme trains learners to translate consumer insight into brand positioning, narrative systems, and long-term differentiation across digital touchpoints.</p>
+                </div>
+            </div>
+            <div class="feature-item">
+                <div class="icon"><img src="assets/img/icon-01.webp"></div>
+                <div class="text">
+                    <h3>Practice-Intensive Learning Through D2C Brand Case Work</h3>
+                    <p>Learners work on real brand scenarios involving content systems, creator ecosystems, community building, and revenue-linked brand growth.</p>
+                </div>
+            </div>
+            <div class="feature-item">
+                <div class="icon"><img src="assets/img/icon-01.webp"></div>
+                <div class="text">
+                    <h3>Capstone Designed for Leadership-Level Decision Making</h3>
+                    <p>The programme concludes with a two-part capstone where learners build a D2C brand and defend brand investments through a boardroom-style presentation.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
 
 <section id="Courses">
 <div class="container">
 <center><h2>Specialisations in the MICA online Digital Marketing Course</h2></center>
+<br>
 
 <div class="Courses-info">
     <div id="sliderB" class="owl-carousel">
                 <div class="item">
                     <div class="course_card">
-                    <img src="assets/img/emerging-technology-dba.webp" alt="Image 1">
+                    <img src="assets/img/social-media-marketing.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Social Media & Content Marketing</h2>
                     <p>Mica University teaches powerful content and social media strategies, helping you build brand awareness, manage communities, run ads, and master multi-platform marketing.
@@ -230,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                    <div class="item">
                     <div class="course_card">
-                    <img src="assets/img/data-science-dba.webp" alt="Image 1">
+                    <img src="assets/img/emerging-technology-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Generative AI for Marketing</h2>
                     <p>The DBA in Data Science combines Explore prompt engineering, AI-based content creation, ethical frameworks, and chatbot development with Mica University through this future-focused Mica certificate course.
@@ -283,7 +295,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<section class="about-section">
+<section id="about_section" class="about-section">
     <div class="about-container">
         <div class="about-content">
             <h2 class="about-title">About MICA:<span> The School of Ideas</span></h2>
@@ -327,7 +339,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container">
     <div class="achievement_cnt">
       <div class="ach_C">
-                <h1 ><div style="color: #000000;"> Master 50+ </div><div style="color: #BF1E24;">industry-relevant tools</div></h1>
+                <h1 ><div style="color: #000000;"> Master 50+ </div><div style="color: #BF1E24;">Industry-relevant Tools</div></h1>
                 <strong><p>Lerner will get trained tool knowledge, which includes Canva, Runway, YouTube, ChatGPT, WIX, and Loveable, which makes their certificate inthe MICA online digital marketing course and the Advanced Certificate in Digital Brand Communication more industry-driven and aligned to today's world.</p></strong>
             </div>
         <div class="ach_C">
@@ -375,11 +387,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 </section> -->
 <!-- End placement -->
-<section class="career-scope-section">
+<section id="advantages" class="career-scope-section">
     <div class="content-left">
         <h1>Career advancement at <span class="highlight">MICA University</span></h1>
         <p>The MICA Online courses provide students with practical skills and opportunities to get a high-paying job. The university offers placement assistance to its students so that they can change their careers into managerial roles.</p>
-        <a href="#" class="cta-button">Secure Your Future Now</a>
+        <a class="cta-button enquireNowBtn">Secure Your Future Now</a>
     </div>
     <div class="diagram-container">
         <!-- Main 'hub' box around the person - conceptually represented here -->
@@ -393,21 +405,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section class="certificate-section">
     <div class="benefits-column">
         <div class="benefit-box">
-            <span class="fa fa-clock-o"></span>
+            <img src="assets/img/icon-01-mica-6954bfe2caf6f.webp">
             <div class="text-content">
                 <strong>University-Issued Certification</strong>
                 <p>Transform your career with MICA's industry-driven curriculum</p>
             </div>
         </div>
         <div class="benefit-box">
-            <span class="fa fa-clock-o"></span>
+            <img src="assets/img/icon-02-mica-6954bfe2d046d.webp">
             <div class="text-content">
                 <strong>Practice-Validated Learning</strong>
                 <p>Transform your career with MICA industry-driven curriculum</p>
             </div>
         </div>
         <div class="benefit-box">
-            <span class="fa fa-clock-o"></span>
+            <img src="assets/img/icon-03-mica-6954bfe3272ca.webp">
             <div class="text-content">
                 <strong>Industry Recognition</strong>
                 <p>Transform your career with MICA industry-driven curriculum</p>
@@ -426,7 +438,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="description">
             Graduates earn an official MICA University certificate, recognizing their strategic expertise and project work as proof of upskilling through MICA.
         </p>
-        <a href="#" class="cta-button">Get Degree →</a>
+        <a class="cta-button enquireNowBtn">Get Degree →</a>
     </div>
 </section>
 
