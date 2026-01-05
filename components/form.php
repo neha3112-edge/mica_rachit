@@ -21,26 +21,25 @@
 
         <!-- <label>Course <span class="required">*</span></label> -->
 
-        <select name="course" class="form-control" id="MICA-courses" required>
-            <option value="" selected disabled>Select Your Course</option>
-			   <option value="" selected disabled>Select Course</option>
-                            <option value="ACDMC">Advanced Certificate in Digital Marketing & Communication</option>
-                            <option value="ACDBCS">Advanced Certificate in Digital Brand Communication Strategy</option>
-		
-        </select>
-        <!-- <label>State <span class="required">*</span></label> -->
-        <select name="state" class="form-control" id="state" required>
-            <option value="" hidden>Select Specialisations</option>
-            <option value="Social Media & Content Marketing">Social Media & Content Marketing</option>
-            <option value="Marketing Analytics">Marketing Analytics</option>
-            <option value="Branding & Communications">Branding & Communications</option>
-            <option value="Public Relations">Public Relations </option>
-            <option value="Generative AI for Marketing">Generative AI for Marketing</option>
-            <option value="Marketing Leadership in the Digital Age">Marketing Leadership in the Digital Age</option>
-        </select>
+        <select name="course" class="form-control" id="courseSelect" required>
+                            <option value="" selected disabled>Select DBA Specialization</option>
+                            <option value="DBA">Business Administration</option>
+                            <option value="DBA">International Business</option>
+                            <option value="DBA">Finance</option>
+                            <option value="DBA">Healthcare Management</option>
+                            <option value="DBA">Human Resource Management
+</option>
+                            <option value="DBA">Data Science
+</option>
+                            <option value="DBA">Marketing
+</option>
+                            <option value="DBA">Supply Chain Management</option>
+                            <option value="DBA">Business Analytics</option>
+                            <option value="DBA">Leadership</option>
 
-
-        </select>
+                   
+                        </select>
+                        
         <!-- <label>State <span class="required">*</span></label> -->
         <select name="state" class="form-control" id="state" required>
             <option value="" hidden>Select Your State</option>
