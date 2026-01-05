@@ -87,7 +87,7 @@ $sheet_data = [
     // 'utm_medium'   => $utm_medium,
     // 'utm_term'     => $utm_term,
     'page_url'     => $page_url,
-    'website'      => 'Edgewood_IN' // 👈 TAB NAME IN GOOGLE SHEET
+    'website'      => 'MICA' // 👈 TAB NAME IN GOOGLE SHEET
 ];
 
 $ch = curl_init();
