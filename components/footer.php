@@ -5,7 +5,7 @@
     <div class="container">
     <div class="footer-section">
             <div class="footer-column">
-                <img src="assets/img/mica-logo-white.png" alt="logo-img" width="70%"/><br><br>
+                <a href="https://mica.distanceeducationschool.in/"><img src="assets/img/mica-logo-white.png" alt="logo-img" width="70%"/><br><br></a>
                    <h2>Have Query? <br>Need Guidance</h2><br>
                   <button class="enquireNowBtn" style="background-color:#BF1E24; padding:10px 20px; color:#fff; border-style:none; border-radius:5px;">Request Call Back</button>
             </div>
