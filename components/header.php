@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" type="image/x-icon" href="assets/img/mica-favicon.ico"/>
-    <title>Mica University: Fees, Eligibility & Admission 2026</title>
-    <meta decription="Explore the best online certificate courses by MICA University in 2026. Check fees, eligibility">
+    <title>Mica University Online Courses | Digital Marketing & Certificate Programs</title>
+    <meta decription="Mica University online courses offer flexible, expert-led certificate programs. Join the Mica online digital marketing course to gain practical skills and industry recognition.">
     <meta keyword="Mica University">
 	<link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/common.css">
@@ -93,7 +93,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <input type="checkbox" id="nav-check">
             <div class="nav-header">
                 <div class="nav-title">
-                    <a href="#" id="logo-link">  
+                    <a href="https://mica.distanceeducationschool.in/" id="logo-link">  
                         <img src="assets/img/mica-logo-small.webp" class="logo" alt="IIM-Logo">
                     </a>
                 </div>

@@ -213,14 +213,6 @@
         const courseForm = document.getElementById('enquiry-form');
 
         submitBtn.addEventListener('click', function (event) {
-            const selectedCourse = courseSelect.value;
-
-            // Validate if the course is selected
-            if (!selectedCourse) {
-                alert('Please select a course before submitting the form.');
-                event.preventDefault(); // Prevent form submission
-                return;
-            }
 
             // Open the corresponding PDF
             const pdfFileName = `assets/img/DBA.pdf`;

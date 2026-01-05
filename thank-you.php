@@ -38,7 +38,7 @@
 					<center><h4><strong>Your Submission has been Received!</strong></h4></center>
 					<br>
 					<div class="button">
-						<a href="https://dba.distanceeducationschool.in/"><center>	<button type="button" style="padding: 10px; border: 1px solid black; background-color:#002B5C; color: #fff; font-weight:bold;">For More Information Kindly Visit Here</button></center></a>
+						<a href="https://mica.distanceeducationschool.in/"><center>	<button type="button" style="padding: 10px; border: 1px solid black; background-color:#002B5C; color: #fff; font-weight:bold;">For More Information Kindly Visit Here</button></center></a>
 					</div><!--end of card-->
 				</div><!--end of container-->
 				<br>
