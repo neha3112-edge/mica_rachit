@@ -138,7 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>From Paid Campaigns to Retention Channels</h3>
-                    <p>The curriculum is designed so that MICA University learners take part in live projects covering SEO, Meta Ads, Google Ads, email marketing, marketing automation, GA4, and a CRM-based pathway.</p>
+                    <p>The curriculum is designed so that MICA University learners take part in live projects covering SEO, Meta Ads, and marketing.</p>
                 </div>
             </div>
             <div class="feature-item">
@@ -152,7 +152,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>Agency Exposure Through Optional Industry Immersion</h3>
-                    <p>Participants can engage in an offline immersion experience with Social Panga, presenting solutions to senior agency professionals and understanding agency workflows.</p>
+                    <p>Participants can engage in an offline immersion experience with Social Panga to senior agency.</p>
                 </div>
             </div>
 
@@ -160,21 +160,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>Brand Building from Insight to Identity, Not Campaigns Alone</h3>
-                    <p>The programme trains learners to translate consumer insight into brand positioning, narrative systems, and long-term differentiation across digital touchpoints.</p>
+                    <p>The programme trains learners to translate consumer insight into brand positioning and long-term differentiation in digital.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>Practice-Intensive Learning Through D2C Brand Case Work</h3>
-                    <p>Learners work on real brand scenarios involving content systems, creator ecosystems, community building, and revenue-linked brand growth.</p>
+                    <p>Learners work on real brand scenarios involving content systems, creator ecosystems, and revenue-linked brand growth.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>Capstone Designed for Leadership-Level Decision Making</h3>
-                    <p>The programme concludes with a two-part capstone where learners build a D2C brand and defend brand investments through a boardroom-style presentation.</p>
+                    <p>The programme concludes with a two-part capstone where learners build a D2C brand and defend brand investments.</p>
                 </div>
             </div>
         </div>
@@ -208,7 +208,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/international-business-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Marketing Analytics</h2>
-                    <p>Learn data visualisation, app analytics tools, integration methods, and core marketing metrics with Mica University through a structured Mica online course for smart decisions.
+                    <p>Learn data visualisation, app analytics tools, integration methods, and core marketing metrics with Mica University through a structured Mica online course and make smart decisions for your business.
 
 </p>
 
@@ -221,7 +221,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/finance-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Branding & Communications</h2>
-                    <p>Mica University guides you through branding frameworks, customer perception, positioning, audits, and communication strategies with this expertly crafted Mica certificate course.
+                    <p>Mica University guides you through branding frameworks, customer perception, positioning, audits, and communication strategies with this expertly crafted Mica certificate course, to learn about marketing strategy.
 </p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
