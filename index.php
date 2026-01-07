@@ -307,16 +307,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <p>MICA University is a prime institution for students who want to increase their strategic marketing and communication education. The institution was established in 1991 and is known for its integration of marketing, creativity, and technology campaigns. MICA University has helped many leaders across FMCG, digital-first, and D2C brands through academically strong and industry-relevant programmes. </p>
                 <p>With a focus on innovation and industry-relevant curriculum, we empower our students to achieve their professional goals while balancing their personal commitments through our state-of-the-art digital campus.</p>
             </div>
-
-            <div class="info-badge">
-                <div class="badge-item">
-                    <span class="badge-icon">★</span> Ranked 32 in NIRF'24
-                </div>
-                <div class="badge-separator"></div>
-                <div class="badge-item">
-                    <span class="badge-icon">★</span> Mecca of Marketing
-                </div>
-            </div>
         </div>
     </div>
 </section>
