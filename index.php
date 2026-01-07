@@ -3,7 +3,7 @@
 
 <?php
 $accordionData = [
-    ["title" => "What online programmes are offered by Mica University?", "content" => "Mica University offers two online certificate programmes: “Advanced Certificate in Digital Marketing & Communication” and “Advanced Certificate in Digital Brand Communication Strategy”, designed for working professionals and graduates.
+    ["title" => "Q1. What online programmes are offered by Mica University?", "content" => "Mica University offers two online certificate programmes: “Advanced Certificate in Digital Marketing & Communication” and “Advanced Certificate in Digital Brand Communication Strategy”, designed for working professionals and graduates.
 "],
    ["title" => "Q2. Who can apply for a Mica University online course?", "content" => "The eligibility of MICE online courses is very simple; any student who has a bachelor's degree from a well-known university is eligible to apply.
 "],

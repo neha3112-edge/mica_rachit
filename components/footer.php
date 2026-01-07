@@ -12,8 +12,16 @@
             <div class="footer-column">
                 <h2>RANKING & ACCREDITATION</h2>
                 <ul>
-                    <li>Ranked 32 in NIRF'24</li>
-                    <li>MECCA Of Marketing</li>
+                    <li>Business Administration</li>
+                    <li>International Business</li>
+                    <li>Finance</li>
+                    <li>Healthcare Management</li>
+                    <li>Human Resource Management</li>
+                    <li>Data Science</li>
+                    <li>Marketing</li>
+                    <li>Supply Chain Management</li>
+                    <li>Business Analytics</li>
+                    <li>Leadership</li>
                 </ul>
                 
             </div>
