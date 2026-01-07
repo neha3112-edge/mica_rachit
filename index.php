@@ -3,15 +3,15 @@
 
 <?php
 $accordionData = [
-    ["title" => "Q1. What online programmes are offered by Mica University?", "content" => "Mica University offers two online certificate programmes: “Advanced Certificate in Digital Marketing & Communication” and “Advanced Certificate in Digital Brand Communication Strategy”, designed for working professionals and graduates.
+    ["title" => "Q1. What online programmes are offered by MICA University?", "content" => "Mica University offers two online certificate programmes: “Advanced Certificate in Digital Marketing & Communication” and “Advanced Certificate in Digital Brand Communication Strategy”, designed for working professionals and graduates.
 "],
-   ["title" => "Q2. Who can apply for a Mica University online course?", "content" => "The eligibility of MICE online courses is very simple; any student who has a bachelor's degree from a well-known university is eligible to apply.
+   ["title" => "Q2. Who can apply for a MICA University online course?", "content" => "The eligibility of MICA online courses is very simple; any student who has a bachelor's degree from a well-known university is eligible to apply.
 "],
-   ["title" => "Q3. Are these programmes completely online?", "content" => "Yes, both programmes are in an online format through live sessions and guided learning. The mica online course structure allows learners to study flexibly, with interactive sessions, projects, and assessments.
+   ["title" => "Q3. Are MICA Online DBA programmes completely online?", "content" => "Yes, both programmes are in an online format through live sessions and guided learning. The mica online course structure allows learners to study flexibly, with interactive sessions, projects, and assessments.
 "],
-   ["title" => "Q4. Will I receive a certificate from Mica University after completion?", "content" => "Yes, upon successful completion, learners receive an official programme certificate issued by Mica University in collaboration with its learning partners. The certification validates applied learning, project work, and programme participation.
+   ["title" => "Q4. Will I receive a certificate from MICA University after completion?", "content" => "Yes, upon successful completion, learners receive an official programme certificate issued by Mica University in collaboration with its learning partners. The certification validates applied learning, project work, and programme participation.
 "],
-	["title" => "Q5. How is the Mica online digital marketing course different from general online courses?", "content" => "The mica online digital marketing course is designed with a strong focus on applied learning, live projects, and industry-aligned frameworks. Unlike generic classes, it combines academic rigour with real business use cases and structured assessments.
+	["title" => "Q5. How is the MICA online digital marketing course different from general online courses?", "content" => "The mica online digital marketing course is designed with a strong focus on applied learning, live projects, and industry-aligned frameworks. Unlike generic classes, it combines academic rigour with real business use cases and structured assessments.
 "]
 ];
 ?>
