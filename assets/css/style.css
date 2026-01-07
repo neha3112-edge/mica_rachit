@@ -479,7 +479,7 @@ p {
 		grid-template-columns: 1fr;
 	}
 
-.banner-info{padding-bottom:300px!important;}
+.banner-info{padding-bottom:240px!important;}
 	.ach {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
@@ -1094,7 +1094,7 @@ p {
     justify-content: space-between;
     align-items: center; /* Vertically centers content */
     padding: 50px;
-    background-image: url("../img/mica-02.webp");
+    background-image: url("../img/mica-new-mobile.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover; /* Ensures the image fills the area without stretching */
