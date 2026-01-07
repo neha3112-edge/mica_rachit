@@ -84,7 +84,10 @@ ul {
     position: fixed;
     top: 0;
   } */
-	.nav > .nav-header{padding:10px;}
+	.nav > .nav-header {
+	padding: 10px;
+	padding-bottom: 0px;
+}
   #header {
     width: 100%;
     background-color: #fff;
@@ -99,8 +102,7 @@ ul {
   }
 
   .logo {
-    width: 250px;
-	  margin-left:12px;
+    width: 180px;
   }
 
   .topBtn {

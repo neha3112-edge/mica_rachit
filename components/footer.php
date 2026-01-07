@@ -28,10 +28,10 @@
             <div class="footer-column">
                 <h2>QUICK LINKS</h2>
                 <ul>
-                    <li><a href="#about_section">About MICA</li>
-                    <li><a href="#Universities">Course Curriculum</li>
-                    <li><a href="#faqs">Frequently Asked Question</li>
-                    <li><a href="#advantages">Advantages</li>
+                    <li><a href="#about_section">About MICA</a></li>
+                    <li><a href="#Universities">Course Curriculum</a></li>
+                    <li><a href="#faqs">Frequently Asked Question</a></li>
+                    <li><a href="#advantages">Advantages</a></li>
 
                 </ul>           
     
