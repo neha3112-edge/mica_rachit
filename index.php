@@ -7,7 +7,7 @@ $accordionData = [
 "],
    ["title" => "Q2. Who can apply for a MICA University online course?", "content" => "The eligibility of MICA online courses is very simple; any student who has a bachelor's degree from a well-known university is eligible to apply.
 "],
-   ["title" => "Q3. Are MICA Online DBA programmes completely online?", "content" => "Yes, both programmes are in an online format through live sessions and guided learning. The mica online course structure allows learners to study flexibly, with interactive sessions, projects, and assessments.
+   ["title" => "Q3. Are MICA Online programmes completely online?", "content" => "Yes, both programmes are in an online format through live sessions and guided learning. The mica online course structure allows learners to study flexibly, with interactive sessions, projects, and assessments.
 "],
    ["title" => "Q4. Will I receive a certificate from MICA University after completion?", "content" => "Yes, upon successful completion, learners receive an official programme certificate issued by Mica University in collaboration with its learning partners. The certification validates applied learning, project work, and programme participation.
 "],
