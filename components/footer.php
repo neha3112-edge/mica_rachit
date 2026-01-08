@@ -10,7 +10,7 @@
                   <button class="enquireNowBtn" style="background-color:#BF1E24; padding:10px 20px; color:#fff; border-style:none; border-radius:5px;">Request Call Back</button>
             </div>
             <div class="footer-column">
-                <h2>RANKING & ACCREDITATION</h2>
+                <h2>SPECIALIZATION</h2>
                 <ul>
                     <li>Business Administration</li>
                     <li>International Business</li>
