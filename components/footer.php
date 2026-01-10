@@ -14,6 +14,7 @@
                 <ul>
                     <li>Advanced Certificate in Digital Marketing & Communication</li>
                     <li>Advanced Certificate in Digital Brand Communication Strategy</li>
+                    <li>Advanced Certificate in AI-Driven Performance Marketing</li>
                 </ul>
                 
             </div>

@@ -95,6 +95,7 @@
                             <option value="" selected disabled>Select Specialization</option>
                             <option value="DBA">Advanced Certificate in Digital Marketing & Communication</option>
                             <option value="DBA">Advanced Certificate in Digital Brand Communication Strategy</option>
+                            <option value="DBA">Advanced Certificate in AI-Driven Performance Marketing</option>
 
                    
                         </select>
