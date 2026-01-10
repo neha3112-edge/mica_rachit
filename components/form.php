@@ -22,20 +22,10 @@
         <!-- <label>Course <span class="required">*</span></label> -->
 
         <select name="course" class="form-control" id="courseSelect" required>
-                            <option value="" selected disabled>Select DBA Specialization</option>
-                            <option value="DBA">Business Administration</option>
-                            <option value="DBA">International Business</option>
-                            <option value="DBA">Finance</option>
-                            <option value="DBA">Healthcare Management</option>
-                            <option value="DBA">Human Resource Management
-</option>
-                            <option value="DBA">Data Science
-</option>
-                            <option value="DBA">Marketing
-</option>
-                            <option value="DBA">Supply Chain Management</option>
-                            <option value="DBA">Business Analytics</option>
-                            <option value="DBA">Leadership</option>
+                            <option value="" selected disabled>Select Specialization</option>
+                            <option value="DBA">Advanced Certificate in Digital Marketing & Communication</option>
+                            <option value="DBA">Advanced Certificate in Digital Brand Communication Strategy</option>
+                            
 
                    
                         </select>

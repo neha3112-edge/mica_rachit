@@ -12,16 +12,8 @@
             <div class="footer-column">
                 <h2>SPECIALIZATION</h2>
                 <ul>
-                    <li>Business Administration</li>
-                    <li>International Business</li>
-                    <li>Finance</li>
-                    <li>Healthcare Management</li>
-                    <li>Human Resource Management</li>
-                    <li>Data Science</li>
-                    <li>Marketing</li>
-                    <li>Supply Chain Management</li>
-                    <li>Business Analytics</li>
-                    <li>Leadership</li>
+                    <li>Advanced Certificate in Digital Marketing & Communication</li>
+                    <li>Advanced Certificate in Digital Brand Communication Strategy</li>
                 </ul>
                 
             </div>
