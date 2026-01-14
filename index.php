@@ -124,6 +124,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="btn-grp"><button class="downloadBrochureBtn btn1">Get Brochure <i class="fa fa-download"></i></button> <button class="enquireNowBtn btn2">Apply Now</button></div>
         </div>
     </div>
+
+    <div class="c1">
+        <img src="assets/img/advanced-2.webp" class="img-responsive">
+        <div class="cr-cnt">
+        <h2>Advanced Certificate in AI-Driven Performance Marketing</h2>
+        <p>The MICA online course of AI-driven performance marketing transforms students to think like a performance marketer. MICA university offers 15+ Marketing and AI Tools so you can run, fix  and present campaigns like a strategist.
+</p>
+         <p><i class="fa fa-clock-o" style="color:red;"></i>&nbsp; <b>Duration : </b> &nbsp; 14 Weeks<br>
+    <i class="fa fa-check" style="color:green;"></i>&nbsp;<b>Advantage : </b> 15+ Marketing & AI Tools</p>
+		
+        <hr>
+        <div class="btn-grp"><button class="downloadBrochureBtn btn1">Get Brochure <i class="fa fa-download"></i></button> <button class="enquireNowBtn btn2">Apply Now</button></div>
+        </div>
+    </div>
+
 </section>
 
 <section id="why_choose" class="why-choose-section">
