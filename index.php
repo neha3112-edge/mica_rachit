@@ -3,13 +3,13 @@
 
 <?php
 $accordionData = [
-    ["title" => "Q1. What online programmes are offered by MICA University?", "content" => "Mica University offers two online certificate programmes: “Advanced Certificate in Digital Marketing & Communication” and “Advanced Certificate in Digital Brand Communication Strategy”, designed for working professionals and graduates.
+    ["title" => "Q1. What online programmes are offered by MICA?", "content" => "MICA offers two online certificate programmes: “Advanced Certificate in Digital Marketing & Communication” and “Advanced Certificate in Digital Brand Communication Strategy”, designed for working professionals and graduates.
 "],
-   ["title" => "Q2. Who can apply for a MICA University online course?", "content" => "The eligibility of MICA online courses is very simple; any student who has a bachelor's degree from a well-known university is eligible to apply.
+   ["title" => "Q2. Who can apply for a MICA online course?", "content" => "The eligibility of MICA online courses is very simple; any student who has a bachelor's degree from a well-known university is eligible to apply.
 "],
    ["title" => "Q3. Are MICA Online programmes completely online?", "content" => "Yes, both programmes are in an online format through live sessions and guided learning. The mica online course structure allows learners to study flexibly, with interactive sessions, projects, and assessments.
 "],
-   ["title" => "Q4. Will I receive a certificate from MICA University after completion?", "content" => "Yes, upon successful completion, learners receive an official programme certificate issued by Mica University in collaboration with its learning partners. The certification validates applied learning, project work, and programme participation.
+   ["title" => "Q4. Will I receive a certificate from MICA after completion?", "content" => "Yes, upon successful completion, learners receive an official programme certificate issued by MICA in collaboration with its learning partners. The certification validates applied learning, project work, and programme participation.
 "],
 	["title" => "Q5. How is the MICA online digital marketing course different from general online courses?", "content" => "The mica online digital marketing course is designed with a strong focus on applied learning, live projects, and industry-aligned frameworks. Unlike generic classes, it combines academic rigour with real business use cases and structured assessments.
 "]
@@ -33,9 +33,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
            <div class="banner-info">
             <!-- <p class="t1"><span class="t2">IIM KOZHIKODE</span></p> -->
             <h1 style="font-family:Impact, sans-serif !important;">Professional Online Certification</h1>
-            <h2 style="color: white">By Mica University</h2>
+            <h2 style="color: white">By MICA (The School of Ideas)</h2>
 			   <!-- <h1 style="font-family: Impact, sans-serif!important;"> HRM Analytics<br>Online Certification</h1>-->
-            <p style="color: white;">The online certificate courses at MICA University are flexible, expert-led courses. These Online courses are for working professionals who want practical skills, strategic clarity, and strong academic credibility
+            <p style="color: white;">The online certificate courses at MICA are flexible, expert-led courses. These Online courses are for working professionals who want practical skills, strategic clarity, and strong academic credibility
 </p>
 
         <div class="banner_lists">
@@ -93,7 +93,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <section id="Universities">
 <div class="container">
-<h2>Courses offered by MICA University Online</h2>
+<h2>Courses offered by MICA Online</h2>
 <br>
 
 <div class="Universities-info">
@@ -101,7 +101,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="assets/img/advanced-certificate-in-digital-marketing-communication-mica-6954bfe464953.webp" class="img-responsive">
         <div class="cr-cnt">
         <h2>Advanced Certificate in Digital Marketing & Communication</h2>
-        <p>The MICA Online digital marketing course offers an AI-integrated learning journey with beginner and advanced tracks. The Online digital marketing courses provided in MICA University include live industry projects.
+        <p>The MICA Online digital marketing course offers an AI-integrated learning journey with beginner and advanced tracks. The Online digital marketing courses provided in MICA include live industry projects.
 </p>
          <p><i class="fa fa-clock-o" style="color:red;"></i>&nbsp; <b>Duration : </b> &nbsp; 4-10 months<br>
     <i class="fa fa-check" style="color:green;"></i>&nbsp;<b>Advantage : </b>Specialisations</p>
@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="assets/img/advanced-2.webp" class="img-responsive">
         <div class="cr-cnt">
         <h2>Advanced Certificate in AI-Driven Performance Marketing</h2>
-        <p>The MICA online course of AI-driven performance marketing transforms students to think like a performance marketer. MICA university offers 15+ Marketing and AI Tools so you can run, fix  and present campaigns like a strategist.
+        <p>The MICA online course of AI-driven performance marketing transforms students to think like a performance marketer. MICA offers 15+ Marketing and AI Tools so you can run, fix  and present campaigns like a strategist.
 </p>
          <p><i class="fa fa-clock-o" style="color:red;"></i>&nbsp; <b>Duration : </b> &nbsp; 14 Weeks<br>
     <i class="fa fa-check" style="color:green;"></i>&nbsp;<b>Advantage : </b> 15+ Marketing & AI Tools</p>
@@ -153,7 +153,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>From Paid Campaigns to Retention Channels</h3>
-                    <p>The curriculum is designed so that MICA University learners take part in live projects covering SEO, Meta Ads, and marketing.</p>
+                    <p>The curriculum is designed so that MICA learners take part in live projects covering SEO, Meta Ads, and marketing.</p>
                 </div>
             </div>
             <div class="feature-item">
@@ -212,7 +212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/social-media-marketing.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Social Media & Content Marketing</h2>
-                    <p>Mica University teaches powerful content and social media strategies, helping you build brand awareness, manage communities, run ads, and master multi-platform marketing.
+                    <p>MICA teaches powerful content and social media strategies, helping you build brand awareness, manage communities, run ads, and master multi-platform marketing.
 </p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
@@ -223,7 +223,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/international-business-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Marketing Analytics</h2>
-                    <p>Learn data visualisation, app analytics tools, integration methods, and core marketing metrics with Mica University through a structured Mica online course and make smart decisions for your business.
+                    <p>Learn data visualisation, app analytics tools, integration methods, and core marketing metrics with MICA through a structured Mica online course and make smart decisions for your business.
 
 </p>
 
@@ -236,7 +236,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/finance-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Branding & Communications</h2>
-                    <p>Mica University guides you through branding frameworks, customer perception, positioning, audits, and communication strategies with this expertly crafted Mica certificate course, to learn about marketing strategy.
+                    <p>MICA guides you through branding frameworks, customer perception, positioning, audits, and communication strategies with this expertly crafted Mica certificate course, to learn about marketing strategy.
 </p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
@@ -248,7 +248,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/healthcare-management-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Public Relations</h2>
-                    <p>TMaster PR foundations, sentiment analysis, media relations, and communication strategies across mediums with Mica University through its advanced Mica Online Digital Marketing Course.
+                    <p>TMaster PR foundations, sentiment analysis, media relations, and communication strategies across mediums with MICA through its advanced Mica Online Digital Marketing Course.
 </p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
@@ -260,7 +260,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/emerging-technology-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Generative AI for Marketing</h2>
-                    <p>The DBA in Data Science combines Explore prompt engineering, AI-based content creation, ethical frameworks, and chatbot development with Mica University through this future-focused Mica certificate course.
+                    <p>The DBA in Data Science combines Explore prompt engineering, AI-based content creation, ethical frameworks, and chatbot development with MICA through this future-focused Mica certificate course.
 </p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
@@ -274,7 +274,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/marketing-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Marketing Leadership in the Digital Age</h2>
-                    <p>Mica University trains you in building strong marketing teams, behaviour-based segmentation, optimisation, and omnichannel leadership through its specialised Mica online course.
+                    <p>MICA trains you in building strong marketing teams, behaviour-based segmentation, optimisation, and omnichannel leadership through its specialised Mica online course.
 </p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
@@ -313,13 +313,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="about_section" class="about-section">
     <div class="about-container">
         <div class="about-content">
-            <h2 class="about-title">About MICA:<span> The School of Ideas</span></h2>
+            <h2 class="about-title">About MICA:<span> (The School of Ideas)</span></h2>
             <p class="about-subtitle">Pioneering Excellence in Online Learning</p>
             
             <hr class="divider">
 
             <div class="about-description">
-                <p>MICA University is a prime institution for students who want to increase their strategic marketing and communication education. The institution was established in 1991 and is known for its integration of marketing, creativity, and technology campaigns. MICA University has helped many leaders across FMCG, digital-first, and D2C brands through academically strong and industry-relevant programmes. </p>
+                <p>MICA is a prime institution for students who want to increase their strategic marketing and communication education. The institution was established in 1991 and is known for its integration of marketing, creativity, and technology campaigns. MICA has helped many leaders across FMCG, digital-first, and D2C brands through academically strong and industry-relevant programmes. </p>
                 <p>With a focus on innovation and industry-relevant curriculum, we empower our students to achieve their professional goals while balancing their personal commitments through our state-of-the-art digital campus.</p>
             </div>
         </div>
@@ -394,7 +394,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End placement -->
 <section id="advantages" class="career-scope-section">
     <div class="content-left">
-        <h1>Career advancement at <span class="highlight">MICA University</span></h1>
+        <h1>Career advancement at <span class="highlight">MICA</span></h1>
         <p>The MICA Online courses provide students with practical skills and opportunities to get a high-paying job. The university offers placement assistance to its students so that they can change their careers into managerial roles.</p>
         <a class="cta-button enquireNowBtn">Secure Your Future Now</a>
     </div>
@@ -441,7 +441,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h2>Sample Certificate</h2>
         <p class="subtitle">DIGITAL MARKETING & COMMUNICATION</p>
         <p class="description">
-            Graduates earn an official MICA University certificate, recognizing their strategic expertise and project work as proof of upskilling through MICA.
+            Graduates earn an official MICA certificate, recognizing their strategic expertise and project work as proof of upskilling through MICA.
         </p>
         <a class="cta-button enquireNowBtn">Get Degree →</a>
     </div>
