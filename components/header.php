@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="icon" type="image/x-icon" href="assets/img/mica-favicon.ico"/>
     <title>Mica University Online Courses | Digital Marketing & Certificate Programs</title>
-    <meta decription="Mica University online courses offer flexible, expert-led certificate programs. Join the Mica online digital marketing course to gain practical skills and industry recognition.">
+    <meta name="description" content="Mica University online courses offer flexible, expert-led certificate programs. Join the Mica online digital marketing course to gain practical skills and industry recognition.">
     <meta keyword="Mica University">
 	<link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/common.css">
