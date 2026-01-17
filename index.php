@@ -3,16 +3,13 @@
 
 <?php
 $accordionData = [
-    ["title" => "Q1. What online programmes are offered by MICA?", "content" => "MICA offers two online certificate programmes: “Advanced Certificate in Digital Marketing & Communication” and “Advanced Certificate in Digital Brand Communication Strategy”, designed for working professionals and graduates.
-"],
+    ["title" => "Q1. What online programmes are offered by MICA?", "content" => "MICA offers THREE online certificate programmes: Advanced Certificate in Digital Marketing & Communication, Advanced Certificate in Digital Brand Communication Strategy and Advanced Certificate in AI-Driven Performance Marketing, designed for working professionals and graduates through the MICA online course platform."],
    ["title" => "Q2. Who can apply for a MICA online course?", "content" => "The eligibility of MICA online courses is very simple; any student who has a bachelor's degree from a well-known university is eligible to apply.
 "],
-   ["title" => "Q3. Are MICA Online programmes completely online?", "content" => "Yes, both programmes are in an online format through live sessions and guided learning. The mica online course structure allows learners to study flexibly, with interactive sessions, projects, and assessments.
-"],
+   ["title" => "Q3. Are MICA Online programmes completely online?", "content" => "Yes, all the programmes are in an online format through live sessions and guided learning. The MICA online course structure allows learners to study flexibly, with interactive sessions, projects, and assessments."],
    ["title" => "Q4. Will I receive a certificate from MICA after completion?", "content" => "Yes, upon successful completion, learners receive an official programme certificate issued by MICA in collaboration with its learning partners. The certification validates applied learning, project work, and programme participation.
 "],
-	["title" => "Q5. How is the MICA online digital marketing course different from general online courses?", "content" => "The mica online digital marketing course is designed with a strong focus on applied learning, live projects, and industry-aligned frameworks. Unlike generic classes, it combines academic rigour with real business use cases and structured assessments.
-"]
+	["title" => "Q5. How is the MICA online digital marketing course different from general online courses?", "content" => "The MICA online course in digital marketing is designed with a strong focus on applied learning, live projects, and industry-aligned frameworks. Unlike generic classes, the MICA online course combines academic rigour with real business use cases and structured assessments."]
 ];
 ?>
 <?php include __DIR__ . '/components/popup.php'; ?>
@@ -35,7 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h1 style="font-family:Impact, sans-serif !important;">Professional Online Certification</h1>
             <h2 style="color: white">By MICA (The School of Ideas)</h2>
 			   <!-- <h1 style="font-family: Impact, sans-serif!important;"> HRM Analytics<br>Online Certification</h1>-->
-            <p style="color: white;">The online certificate courses at MICA are flexible, expert-led courses. These Online courses are for working professionals who want practical skills, strategic clarity, and strong academic credibility
+            <p style="color: white;">The MICA online courses are flexible and expert-led courses. MICA Online courses are for working professionals who want practical skills, strategic clarity, and strong academic credibility
 </p>
 
         <div class="banner_lists">
@@ -101,10 +98,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="assets/img/advanced-certificate-in-digital-marketing-communication-mica-6954bfe464953.webp" class="img-responsive">
         <div class="cr-cnt">
         <h2>Advanced Certificate in Digital Marketing & Communication</h2>
-        <p>The MICA Online digital marketing course offers an AI-integrated learning journey with beginner and advanced tracks. The Online digital marketing courses provided in MICA include live industry projects.
-</p>
+        <p>The MICA Online digital marketing course offers an AI-integrated learning journey with customised 2 Tracks and 6 Specialisations learning options. The Digital online marketing course provided in MICA includes live industry projects.</p>
+
          <p><i class="fa fa-clock-o" style="color:red;"></i>&nbsp; <b>Duration : </b> &nbsp; 4-10 months<br>
-    <i class="fa fa-check" style="color:green;"></i>&nbsp;<b>Advantage : </b>Specialisations</p>
+    <i class="fa fa-check" style="color:green;"></i>&nbsp;<b>Advantage : </b>2 Tracks and 6 Specialisations</p>
 		
         <hr>
         <div class="btn-grp"><button class="downloadBrochureBtn btn1">Get Brochure <i class="fa fa-download"></i></button> <button class="enquireNowBtn btn2">Apply Now</button></div>
@@ -115,10 +112,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="assets/img/advanced-certificate-in-digital-brand-communication-strategy-mica-6954bfe40097e.webp" class="img-responsive">
         <div class="cr-cnt">
         <h2>Advanced Certificate in Digital Brand Communication Strategy</h2>
-        <p>The MICA online courses are built around a brand strategy content system, creator-led growth, and revenue impact. The university offer 20% strategy, 80% practical, and 100% brand impact kind of a curriculum
+        <p>This MICA online course is built around a brand strategy content system, creator-led growth, and revenue impact. MICA online course of Digital Brand Communication Strategy  offer 20% strategy, 80% practical, and 100% brand impact kind of a curriculum.
 </p>
          <p><i class="fa fa-clock-o" style="color:red;"></i>&nbsp; <b>Duration : </b> &nbsp;14 Weeks <br>
-    <i class="fa fa-check" style="color:green;"></i>&nbsp;<b>Advantage : </b>60+ working hours</p>
+    <i class="fa fa-check" style="color:green;"></i>&nbsp;<b>Advantage : </b>60+ Live Learning Hours</p>
 		
         <hr>
         <div class="btn-grp"><button class="downloadBrochureBtn btn1">Get Brochure <i class="fa fa-download"></i></button> <button class="enquireNowBtn btn2">Apply Now</button></div>
@@ -129,10 +126,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="assets/img/advanced-2.webp" class="img-responsive">
         <div class="cr-cnt">
         <h2>Advanced Certificate in AI-Driven Performance Marketing</h2>
-        <p>The MICA online course of AI-driven performance marketing transforms students to think like a performance marketer. MICA offers 15+ Marketing and AI Tools so you can run, fix  and present campaigns like a strategist.
+        <p>The MICA online course on AI-driven performance marketing transforms you into thinking like a performance marketer. Students get access to 15+ Marketing and AI Tools to run, fix and present campaigns like a strategist in this MICA online course. Launch and optimize real campaigns.
 </p>
          <p><i class="fa fa-clock-o" style="color:red;"></i>&nbsp; <b>Duration : </b> &nbsp; 14 Weeks<br>
-    <i class="fa fa-check" style="color:green;"></i>&nbsp;<b>Advantage : </b> 15+ Marketing & AI Tools</p>
+    <i class="fa fa-check" style="color:green;"></i>&nbsp;<b>Advantage : </b>15+ Marketing & AI Tools</p>
 		
         <hr>
         <div class="btn-grp"><button class="downloadBrochureBtn btn1">Get Brochure <i class="fa fa-download"></i></button> <button class="enquireNowBtn btn2">Apply Now</button></div>
@@ -153,21 +150,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>From Paid Campaigns to Retention Channels</h3>
-                    <p>The curriculum is designed so that MICA learners take part in live projects covering SEO, Meta Ads, and marketing.</p>
+                    <p>The curriculum of the MICA Online Course  enables hands-on learning across SEO, Meta Ads, and retention marketing through live projects.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>3+ certification on completion</h3>
-                    <p>When the learner has completed the course, the learner will get certification from MICA along with social panga and cleverTap, validating applied skills.</p>
+                    <p>When the learner has completed the MICA online course, they will get certification from MICA along with social panga and cleverTap, validating applied skills.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>Agency Exposure Through Optional Industry Immersion</h3>
-                    <p>Participants can engage in an offline immersion experience with Social Panga to senior agency.</p>
+                    <p>Participants can engage in an offline immersion experience with Social Panga for senior agencies through the MICA online course.</p>
                 </div>
             </div>
 
@@ -175,21 +172,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>Brand Building from Insight to Identity, Not Campaigns Alone</h3>
-                    <p>The programme trains learners to translate consumer insight into brand positioning and long-term differentiation in digital.</p>
+                    <p>This MICA online course trains learners to translate consumer insights into brand positioning and long-term differentiation in the digital space through the MICA brand management course.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>Practice-Intensive Learning Through D2C Brand Case Work</h3>
-                    <p>Learners work on real brand scenarios involving content systems, creator ecosystems, and revenue-linked brand growth.</p>
+                    <p>Through the MICA online course, learners work on real brand scenarios involving content systems, creator ecosystems, and revenue-linked brand growth.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <div class="icon"><img src="assets/img/icon-01.webp"></div>
                 <div class="text">
                     <h3>Capstone Designed for Leadership-Level Decision Making</h3>
-                    <p>The programme concludes with a two-part capstone where learners build a D2C brand and defend brand investments.</p>
+                    <p>The MICA online course concludes with a two-part capstone where learners build a D2C brand and defend brand investments.</p>
                 </div>
             </div>
         </div>
@@ -212,8 +209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/social-media-marketing.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Social Media & Content Marketing</h2>
-                    <p>MICA teaches powerful content and social media strategies, helping you build brand awareness, manage communities, run ads, and master multi-platform marketing.
-</p>
+                    <p>MICA online course teaches powerful content and social media strategies, helping you build brand awareness, manage communities, run ads, and master multi-platform marketing through the MICA online marketing course.</p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
                 </div>
@@ -223,9 +219,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/international-business-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Marketing Analytics</h2>
-                    <p>Learn data visualisation, app analytics tools, integration methods, and core marketing metrics with MICA through a structured Mica online course and make smart decisions for your business.
-
-</p>
+                    <p>Learn data visualisation, app analytics tools, data integration methods, and core marketing metrics with the MICA online course through a structured curriculum and make smart decisions for your business with the digital marketing course online at MICA. Build dashboards that drive decisions.</p>
 
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
@@ -236,8 +230,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/finance-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Branding & Communications</h2>
-                    <p>MICA guides you through branding frameworks, customer perception, positioning, audits, and communication strategies with this expertly crafted Mica certificate course, to learn about marketing strategy.
-</p>
+                    <p>The MICA online course guides you through branding frameworks, customer perception, positioning, audits, and communication strategies with this expertly crafted certificate program to learn about marketing strategy in the MICA brand management course.</p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
                 </div>
@@ -248,8 +241,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/healthcare-management-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Public Relations</h2>
-                    <p>TMaster PR foundations, sentiment analysis, media relations, and communication strategies across mediums with MICA through its advanced Mica Online Digital Marketing Course.
-</p>
+                    <p>Master PR foundations, sentiment analysis, media relations, and communication strategies across mediums through the MICA online course, with its advanced Online Digital Marketing training in the MICA digital marketing course. Learn NORMS framework practically.</p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
                 </div>
@@ -260,8 +252,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/emerging-technology-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Generative AI for Marketing</h2>
-                    <p>The DBA in Data Science combines Explore prompt engineering, AI-based content creation, ethical frameworks, and chatbot development with MICA through this future-focused Mica certificate course.
-</p>
+                    <p>The MICA online course explores prompt engineering, AI-powered content creation, ethical frameworks, and chatbot development with hands-on generative AI training in the MICA digital marketing and communication program for cutting-edge marketing applications.</p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
                 </div>
@@ -274,8 +265,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <img src="assets/img/marketing-dba.webp" alt="Image 1">
                     <div class="cr-cnt">
                     <h2>Marketing Leadership in the Digital Age</h2>
-                    <p>MICA trains you in building strong marketing teams, behaviour-based segmentation, optimisation, and omnichannel leadership through its specialised Mica online course.
-</p>
+                    <p>MICA online course trains you in building strong marketing teams, behaviour-based segmentation, optimisation, and omnichannel leadership through its specialised training in the MICA digital marketing and communication program.</p>
                     <button class="enquireNowBtn btn2">Apply Now</button>
                     </div>
                 </div>
@@ -319,8 +309,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <hr class="divider">
 
             <div class="about-description">
-                <p>MICA is a prime institution for students who want to increase their strategic marketing and communication education. The institution was established in 1991 and is known for its integration of marketing, creativity, and technology campaigns. MICA has helped many leaders across FMCG, digital-first, and D2C brands through academically strong and industry-relevant programmes. </p>
-                <p>With a focus on innovation and industry-relevant curriculum, we empower our students to achieve their professional goals while balancing their personal commitments through our state-of-the-art digital campus.</p>
+                <p>MICA is a nonprofit institution for students seeking to enhance their strategic marketing and communication education. MICA was established in 1991 and is known for its integration of marketing, creativity, and technology campaigns through the MICA online course. MICA has helped many leaders across FMCG, digital-first, and D2C brands through academically strong and industry-relevant programmes. With a focus on innovation and industry-relevant curriculum, the MICA online course empowers students to achieve their professional goals while balancing their personal commitments through our state-of-the-art digital campus.</p>
             </div>
         </div>
     </div>
